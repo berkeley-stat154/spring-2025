@@ -1,1 +1,1 @@
-Sitemap: https://berkeley-cdss.github.io/course-site-quarto/sitemap.xml
+Sitemap: https://stat154.berkeley.edu/spring-2025/sitemap.xml
