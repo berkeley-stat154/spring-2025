@@ -1,0 +1,31 @@
+---
+title: "Assignments"
+subtitle: "Stat 154/254: Statistical Machine Learning"
+theme: [sandstone]
+sidebar: true
+---
+
+Please submit all assignments as a pdf on [Gradescope](https://www.gradescope.com/courses/948601).
+
+**Assignments are now hidden since the semester is over.**
+
+
+
+<!--
+- [Assignment 0 (review).  Due Jan 31st 9pm (**with solutions**)](hw0.qmd)
+- [Assignment 1.  Due Feb 14th ($\heartsuit$) 9pm (**with solutions**)](hw1.qmd)
+- [Assignment 2.  Due **Saturday** March 1st 9pm (**with solutions**)](hw2.qmd)
+- [Assignment 3.  Due Saturday March 22nd 9pm (**with solutions**)](hw3.qmd)
+- [Assignment 4. Due Saturday April 19th 9pm (**with solutions**)](hw4.qmd)
+- [Assignment 5. Due Saturday May 3rd 9pm (**with solutions**)](hw5.qmd)
+
+- [Concept map (in class).  Click "save as" to download the example notebook.](concept_map_example.ipynb)
+
+
+Partial solutions may be provided after the homework is due.  Note that, when 
+solutions are provided, they are guides for knowing whether
+you got the answer wrong or not, but not necessarily complete solutions.  Specifically,
+the provided solutions may have less exposition and justification than would be
+expected in a quiz.
+
+-->

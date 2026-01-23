@@ -1,0 +1,21 @@
+---
+title: "Quizzes"
+subtitle: "Stat 154/254"
+theme: [sandstone]
+sidebar: true
+---
+
+**Quizzes are now hidden since the semester is over.**
+
+<!--
+For studying, the class quizzes are below.  We will not circulate
+official solutions, but we encourage you to check your answers with
+the GSI and professor as necessary during office hours. 
+
+- [Quiz 1](quiz1.qmd)
+- [Quiz 2](quiz2.qmd)
+- [Quiz 3](quiz3.qmd)
+- [Quiz 4](quiz4.qmd)
+- [Quiz X](quizx.qmd)
+
+-->

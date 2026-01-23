@@ -1,0 +1,71 @@
+---
+title: "Labs"
+subtitle: "Stat 154/254: Statistical Machine Learning"
+theme: [sandstone]
+sidebar: true
+---
+
+**Labs are now hidden because the semester is over.**
+
+<!--
+## Lab 1
+
+[Lab 1 Exercise - Linear Regression Basics](lab1_exercise.qmd)
+
+[Lab 1 Solution](lab1_solution.ipynb)
+
+## Lab 2
+
+[Lab 2 Presentation - Data Visualization for Linear Modeling](lab2_presentation.ipynb)
+
+[Lab 2 Exercise - Linear Regression Competition](lab2_exercise.qmd)
+
+## Lab 3
+
+(continuing Lab 2 Exercise)
+
+## Lab 4
+
+[Lab 4 Presentation - First Competition Round-up](lab4_presentation.ipynb)
+
+(no exercise)
+
+## Lab 5
+
+[Lab 5 Presentation - Cross Validation](lab5_presentation.qmd)
+
+[Lab 5 Exercise - Cross Validation](lab5_exercise.qmd)
+
+## Lab 6
+
+[Lab 6 Exercise - Cross Validation Competition](lab6_exercise.qmd)
+
+## Lab 7
+
+[Lab 7 Presentation - Second Competition Round-up](lab7_presentation.ipynb)
+
+## Lab 8
+
+[Lab 8 Exercise - Classification Competition](lab8_exercise.qmd)
+
+## Lab 9
+
+Competition continued.
+
+## Lab 10
+
+[Lab 10 Presentation - Third Competition Round-Up](lab10_presentation.ipynb)
+
+## Lab 11
+
+[Lab 11 Exercise - Bagging and Boosting Competition](lab11_exercise.qmd)
+
+## Lab 12
+
+Compeition continued.
+
+## Lab 13
+
+[Lab 13 Presentation - Fourth Competition Round-Up](lab13_presentation.ipynb)
+
+-->
